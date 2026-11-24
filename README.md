@@ -106,7 +106,8 @@ Build each rectifier in Proteus, with and without the capacitor filter. Use the 
 
 ### Full wave bridge rectifier with filter – waveform
 
-*[ Paste the Proteus full wave bridge rectifier with filter waveform screenshot here ]*
+<img width="1100" height="486" alt="Screenshot 2026-11-21 110824" src="https://github.com/user-attachments/assets/d88e0efc-b205-4722-8026-b89cabe4d350" />
+
 
 **Figure 8:** Proteus waveform – full wave bridge rectifier with filter
 
