@@ -52,14 +52,13 @@ All rectifier outputs contain a considerable amount of ripple in addition to the
 ## CIRCUIT DIAGRAMS
 
 ### Half wave rectifier without filter
+<img width="1047" height="737" alt="Screenshot 2026-11-21 104453" src="https://github.com/user-attachments/assets/947cb464-3378-46e2-9074-f4841f955081" />
 
-*[ Insert the half wave rectifier without filter circuit diagram here ]*
 
 **Figure 1:** Half wave rectifier without filter
 
 ### Half wave rectifier with filter
-
-*[ Insert the half wave rectifier with filter circuit diagram here ]
+<img width="1812" height="895" alt="half wave rectifier with filter circuit" src="https://github.com/user-attachments/assets/59d635a1-fd77-4383-983d-fcd101a9c770" />
 
 **Figure 2:** Half wave rectifier with filter
 
@@ -81,14 +80,14 @@ Build each rectifier in Proteus, with and without the capacitor filter. Use the 
 ### Half wave rectifier without filter – waveform
 
 <img width="1062" height="527" alt="Screenshot 2026-11-21 104439" src="https://github.com/user-attachments/assets/0ef9c9f3-aae8-4574-a896-8741926cdb6b" />
-<img width="1047" height="737" alt="Screenshot 2026-11-21 104453" src="https://github.com/user-attachments/assets/947cb464-3378-46e2-9074-f4841f955081" />
+
 
 
 **Figure 5:** Proteus waveform – half wave rectifier without filter
 
 ### Half wave rectifier with filter – waveform
 
-<img width="1812" height="895" alt="half wave rectifier with filter circuit" src="https://github.com/user-attachments/assets/59d635a1-fd77-4383-983d-fcd101a9c770" />
+
 <img width="1492" height="685" alt="half wave rectifier with filter" src="https://github.com/user-attachments/assets/6a647875-6378-41de-b807-46ff198bd438" />
 
 
