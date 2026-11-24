@@ -71,8 +71,7 @@ All rectifier outputs contain a considerable amount of ripple in addition to the
 
 ### Full wave bridge rectifier with filter
 
-*[ Insert the full wave bridge rectifier with filter circuit diagram here ]*
-
+<img width="1100" height="486" alt="Screenshot 2026-11-21 110824" src="https://github.com/user-attachments/assets/d88e0efc-b205-4722-8026-b89cabe4d350" />
 **Figure 4:** Full wave bridge rectifier with filter
 
 ## SIMULATION AND WAVEFORMS USING PROTEUS
@@ -106,7 +105,7 @@ Build each rectifier in Proteus, with and without the capacitor filter. Use the 
 
 ### Full wave bridge rectifier with filter – waveform
 
-<img width="1100" height="486" alt="Screenshot 2026-11-21 110824" src="https://github.com/user-attachments/assets/d88e0efc-b205-4722-8026-b89cabe4d350" />
+
 <img width="1024" height="515" alt="image" src="https://github.com/user-attachments/assets/560f7788-4535-46b6-bc97-1dac0ecec818" />
 
 
