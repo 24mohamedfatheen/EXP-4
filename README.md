@@ -81,7 +81,9 @@ Build each rectifier in Proteus, with and without the capacitor filter. Use the 
 
 ### Half wave rectifier without filter – waveform
 
-*[ Paste the Proteus half wave rectifier without filter waveform screenshot here ]*
+<img width="1062" height="527" alt="Screenshot 2026-11-21 104439" src="https://github.com/user-attachments/assets/0ef9c9f3-aae8-4574-a896-8741926cdb6b" />
+<img width="1047" height="737" alt="Screenshot 2026-11-21 104453" src="https://github.com/user-attachments/assets/947cb464-3378-46e2-9074-f4841f955081" />
+
 
 **Figure 5:** Proteus waveform – half wave rectifier without filter
 
